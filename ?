@@ -1,0 +1,10 @@
+X = 0
+O = 0
+check_tie=0
+check_win=0
+check_lose=0
+def initialisegrille: 
+    for i in range: (0,8):
+        grille: ["","","",\n
+                ,"","","",\n
+                ,"","","",]
